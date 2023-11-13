@@ -36,8 +36,8 @@
   "work": [
     {
       "company": "Digiventus GmbH - Project: HuntR",
-      "position": "DevOps Engineer - Hybrid",
-      "city": "Munich - Germany",
+      "position": "DevOps Engineer",
+      "city": "Munich - Germany (Hybrid)",
       "website": "https://www.digiventus.com/",
       "startDate": "2013-10-01",
       "endDate": "",
@@ -60,8 +60,8 @@
     },
     {
       "company": "Digiventus GmbH - Project at a Leading Insurance Firm",
-      "position": "DevOps Engineer - Remote",
-      "city": "Munich - Germany",
+      "position": "DevOps Engineer",
+      "city": "Munich - Germany (Remote)",
       "website": "https://www.digiventus.com/",
       "startDate": "2023-08-01",
       "endDate": "2023-09-30",
@@ -77,8 +77,8 @@
     },
     {
       "company": "Digiventus GmbH - Project at a Prominent Healthcare Provider",
-      "position": "DevOps Engineer - Remote",
-      "city": "Munich - Germany",
+      "position": "DevOps Engineer",
+      "city": "Munich - Germany (Remote)",
       "website": "https://www.digiventus.com/",
       "startDate": "2022-09-01",
       "endDate": "2023-31-07",
@@ -101,8 +101,8 @@
     },
     {
       "company": "Paessler AG",
-      "position": "Software Engineer - On-Site",
-      "city": "Nürnberg - Germany",
+      "position": "Software Engineer",
+      "city": "Nürnberg - Germany (Hybrid)",
       "website": "https://www.paessler.com/",
       "startDate": "2019-02-01",
       "endDate": "2022-08-31",
@@ -129,8 +129,8 @@
     },
     {
       "company": "competence data GmbH & Co. KG",
-      "position": "Software Engineer - On-Site",
-      "city": "Nürnberg - Germany",
+      "position": "Software Engineer",
+      "city": "Nürnberg - Germany (On-Site)",
       "website": "https://www.competencedata.de/",
       "startDate": "2013-12-01",
       "endDate": "2019-01-31",
@@ -147,8 +147,8 @@
     },
     {
       "company": "PwC",
-      "position": "Advisor in the Banking Sector - On-Site",
-      "city": "Buenos Aires - Argentina",
+      "position": "Advisor in the Banking Sector",
+      "city": "Buenos Aires - Argentina (On-Site)",
       "website": "https://www.pwc.com.ar/",
       "startDate": "2012-07-01",
       "endDate": "2013-07-31",
@@ -205,13 +205,14 @@
       "summary": "Developed a social network platform for events and recommendations, leveraging Angular, .NET, and Azure for robust and scalable solutions."
     },
     {
+      "name": "Language Tutoring",
+      "website": "https://www.loom.com/share/131878515607423c9f60c84a0a5cd017",
+      "summary": "Passionate about language and cultural exchange, offering Spanish lessons to four remote and one in-person student, enhancing their linguistic skills and cultural understanding."
+    },
+    {
       "name": "ChatGPT: Angular .NET Cloud Guide",
       "website": "https://chat.openai.com/g/g-N7EssfXGK-angular-net-cloud-guide",
       "summary": "Custom ChatGPT. The app integrates Angular and .NET frameworks to provide a cloud-based, interactive guide for users."
-    },
-    {
-      "name": "Language Tutoring",
-      "summary": "Passionate about language and cultural exchange, offering Spanish lessons to four remote and one in-person student, enhancing their linguistic skills and cultural understanding."
     },
     {
       "name": "Pipeline Power: Becoming a DevSecOps Black Belt",
