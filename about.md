@@ -22,7 +22,7 @@ As a seasoned DevOps Engineer with a strong focus on Azure, .NET, and Angular, I
 - **Marathons and Running:**
   - Participated in numerous marathons and half-marathons, showcasing my dedication to fitness and discipline. Notable races include:
     - Munich Marathon, 2017
-    - Bamber Half Marathon, 2023
+    - Bamberg Half Marathon, 2023
     - Kyiv Half Marathon, 2021
     - Nürnberg Half Marathon, 2019
     - Oslo Half Marathon, 2014
