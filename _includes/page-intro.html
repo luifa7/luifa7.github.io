@@ -1,7 +1,14 @@
+<style>
+  @media only screen and (min-width: 768px) {
+    .intro-image-margin {
+      margin-left: 75px;
+    }
+  }
+</style>
 <header class="intro">
   {% if page.image %} {% assign intro_image = page.image.path | default:
   page.image | relative_url | escape %}
-  <div class="intro-image" style="max-width: 600px; margin-left: 75px">
+  <div class="intro-image intro-image-margin" style="max-width: 600px">
     <img src="{{ intro_image }}" alt="{{ page.title }}" />
   </div>
   {% endif %}
