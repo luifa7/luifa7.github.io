@@ -1,7 +1,4 @@
 ---
-layout: page
 title: Curriculum Vitæ
-permalink: /curriculum-vitae/
+layout: cv
 ---
-
-Your CV details.

@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Luis Alvarez",
+    "label": "DevOps Engineer @ Digiventus",
+    "email": "luis.alvarez@digiventus.com",
+    "website": "https://www.digiventus.com/",
+    "summary": "Experienced DevOps Engineer specializing in Azure, .NET, and Angular, committed to optimizing development pipelines and cloud-based solutions.",
+    "location": {
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Bavaria"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "luis-alvarez-devops",
+        "url": "https://www.linkedin.com/in/luis-alvarez-devops"
+      },
+      {
+        "network": "Github",
+        "username": "luifa7",
+        "url": "https://github.com/luifa7"
+      },
+      {
+        "network": "Xing",
+        "username": "LuisAlfredo_GodoyAlvarez",
+        "url": "https://www.xing.com/profile/LuisAlfredo_GodoyAlvarez"
+      },
+      {
+        "network": "Microsoft Learn",
+        "username": "luisalvarez-777",
+        "url": "https://learn.microsoft.com/en-us/users/luisalvarez-777/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Digiventus GmbH - Project: HuntR",
+      "position": "DevOps Engineer - Hybrid",
+      "city": "Munich - Germany",
+      "website": "https://www.digiventus.com/",
+      "startDate": "2013-10-01",
+      "endDate": "",
+      "summary": "Tool designed to streamline the project application process for independent professionals. It utilizes advanced web scraping techniques to aggregate job listings, enabling users to efficiently analyze potential projects. Focused on enhancing the user experience, the software simplifies the evaluation of job opportunities through an intuitive interface, aiding in the decision-making process.",
+      "highlights": [
+        "Angular",
+        ".Net",
+        "Blazor",
+        "C#",
+        "TypeScript",
+        "Azure",
+        "B2C",
+        "Msal",
+        "Docker",
+        "Github Actions",
+        "Playwright",
+        "Github Projects",
+        "Kanban"
+      ]
+    },
+    {
+      "company": "Digiventus GmbH - Project at a Leading Insurance Firm",
+      "position": "DevOps Engineer - Remote",
+      "city": "Munich - Germany",
+      "website": "https://www.digiventus.com/",
+      "startDate": "2023-08-01",
+      "endDate": "2023-09-30",
+      "summary": "Setup of Azure infrastructure through Bicep templates, streamlining the deployment process and embracing infrastructure as code methodologies. Subsequently, undertook the reimplementation of some Bicep templates into Terraform, for future possible migrations.",
+      "highlights": [
+        "Bicep",
+        "Terraform",
+        "Azure",
+        "Azure DevOps",
+        "CI/CD",
+        "Kanban"
+      ]
+    },
+    {
+      "company": "Digiventus GmbH - Project at a Prominent Healthcare Provider",
+      "position": "DevOps Engineer - Remote",
+      "city": "Munich - Germany",
+      "website": "https://www.digiventus.com/",
+      "startDate": "2022-09-01",
+      "endDate": "2023-31-07",
+      "summary": "Development and support of web-based software solutions focused on the accounting and administration of medical services. Responsible for the conception and implementation of web applications as well as RESTful APIs, which streamline the management of healthcare operations. Managed the deployment process through the setup and configuration of Azure Pipelines, ensuring smooth, continuous delivery and integration. Also spearheaded the automation of testing procedures, including the creation of unit tests using xUnit and UI tests via Playwright, to maintain high standards of software quality and reliability.",
+      "highlights": [
+        "Azure",
+        "C#",
+        ".Net",
+        "TypeScript",
+        "Playwright",
+        "MSSQL",
+        "Razor Pages",
+        "Blazor",
+        "NUnit",
+        "CI/CD",
+        "Azure DevOps",
+        "Scrum",
+        "Agile"
+      ]
+    },
+    {
+      "company": "Paessler AG",
+      "position": "Software Engineer - On-Site",
+      "city": "Nürnberg - Germany",
+      "website": "https://www.paessler.com/",
+      "startDate": "2019-02-01",
+      "endDate": "2022-08-31",
+      "summary": "Modularization of a monolithic system (Legacy Code) into new microservices utilizing C# .NET, Python Flask, and TypeScript Vue. This involved the analysis, development, and maintenance of the entire e-commerce platform and the activation system for the main product, primarily utilizing Python. Design and implementation of REST APIs and the incorporation of Domain-Driven Design principles. Automated testing using the Robot Framework and working within a DevOps environment, embracing agile methodologies such as Scrum and Kanban, along with tools and practices like Azure, CI/CD, pair programming, and mob programming, complemented by regular code reviews. Further activities: weekend call duty, serving on the company's trust council for two years, and providing mentorship to new team members.",
+      "highlights": [
+        "C#",
+        ".Net",
+        "Python",
+        "Django",
+        "Flask",
+        "Robot",
+        "Azure",
+        "TypeScript",
+        "Vue",
+        "xUnit",
+        "Jest",
+        "Pytest",
+        "Gitlab",
+        "Scrum",
+        "Jira",
+        "Agile",
+        "Docker"
+      ]
+    },
+    {
+      "company": "competence data GmbH & Co. KG",
+      "position": "Software Engineer - On-Site",
+      "city": "Nürnberg - Germany",
+      "website": "https://www.competencedata.de/",
+      "startDate": "2013-12-01",
+      "endDate": "2019-01-31",
+      "summary": "Analysis and development of web applications, utilizing scraper technologies to gather and refine data for customer optimization.",
+      "highlights": [
+        "Java",
+        "Go",
+        "Selenium",
+        "Docker",
+        "Python",
+        "Django",
+        "Hybernate"
+      ]
+    },
+    {
+      "company": "PwC",
+      "position": "Advisor in the Banking Sector - On-Site",
+      "city": "Buenos Aires - Argentina",
+      "website": "https://www.pwc.com.ar/",
+      "startDate": "2012-07-01",
+      "endDate": "2013-07-31",
+      "summary": "Assessment of IT Systems. Data Collection. Anti-Money Laundering Analysis.",
+      "highlights": [
+        "Nobleza Piccardo",
+        "Previsol",
+        "CNP",
+        "Banco Galicia",
+        "Banco Supervielle"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional Noroeste - Buenos Aires",
+      "area": "Software Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2006-03-01",
+      "endDate": "2012-11-01",
+      "website": "https://www.unnoba.edu.ar/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "We Code It Academy",
+      "position": "Mentor",
+      "website": "https://wecodeit.academy/",
+      "startDate": "2021-02-01",
+      "endDate": "2021-09-30",
+      "summary": "Volunteered as a project planner and mentor, teaching software development to refugees, fostering skills and opportunities in technology."
+    }
+  ],
+  "awards": [
+    {
+      "title": "AZ-204",
+      "date": "2023-05-24",
+      "awarder": "Microsoft",
+      "summary": "Microsoft Certified: Azure Developer Associate",
+      "website": "https://learn.microsoft.com/api/credentials/share/en-us/LuisAlvarez-777/EAC0BA5FD506C49C?sharingId=798B3BBF2B7008EC"
+    },
+    {
+      "title": "AZ-400",
+      "date": "2023-08-24",
+      "awarder": "Microsoft",
+      "summary": "Microsoft Certified: DevOps Engineer Expert",
+      "website": "https://learn.microsoft.com/api/credentials/share/en-us/LuisAlvarez-777/6485457C405A01FB?sharingId=798B3BBF2B7008EC"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Recommendoo",
+      "website": "https://recommendoo.vip",
+      "summary": "Developed a social network platform for events and recommendations, leveraging Angular, .NET, and Azure for robust and scalable solutions."
+    },
+    {
+      "name": "ChatGPT: Angular .NET Cloud Guide",
+      "website": "https://chat.openai.com/g/g-N7EssfXGK-angular-net-cloud-guide",
+      "summary": "Custom ChatGPT. The app integrates Angular and .NET frameworks to provide a cloud-based, interactive guide for users."
+    },
+    {
+      "name": "Language Tutoring",
+      "summary": "Passionate about language and cultural exchange, offering Spanish lessons to four remote and one in-person student, enhancing their linguistic skills and cultural understanding."
+    },
+    {
+      "name": "Pipeline Power: Becoming a DevSecOps Black Belt",
+      "summary": "Authoring a comprehensive guidebook on DevSecOps, titled 'Pipeline Power: Becoming a DevSecOps Black Belt', aimed at empowering software professionals with advanced strategies and best practices in integrating security seamlessly into development pipelines."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "keywords": ["C#", ".NET", "Python", "JavaScript"]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": ["TypeScript", "Angular", "Vue", "Blazor", "Django", "Jekyll"]
+    },
+    {
+      "name": "Database Management",
+      "keywords": ["MSSQL", "NoSQL", "PostgreSQL"]
+    },
+    {
+      "name": "DevOps and CI/CD Pipelines",
+      "keywords": ["GitHub Actions", "Azure DevOps", "GitLab"]
+    },
+    {
+      "name": "Cloud Computing",
+      "keywords": [
+        "Azure Web Apps",
+        "App Containers",
+        "Storage Accounts",
+        "B2C"
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "keywords": ["Bicep", "ARM", "Terraform"]
+    },
+    {
+      "name": "Software Architecture",
+      "keywords": ["Domain-Driven Design", "MVC", "Microservices"]
+    },
+    {
+      "name": "Authentication and Security",
+      "keywords": ["MSAL Library"]
+    },
+    {
+      "name": "Automated Testing",
+      "keywords": ["Playwright", "Robot"]
+    },
+    {
+      "name": "Containerization",
+      "keywords": ["Docker"]
+    },
+    {
+      "name": "Version Control",
+      "keywords": ["Git"]
+    },
+    {
+      "name": "Agile Project Management",
+      "keywords": ["Scrum", "Jira", "Kanban", "Azure DevOps", "GitHub Projects"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Communication",
+        "Creativity",
+        "Problem-Solving",
+        "Team Collaboration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Finnish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Distance Running",
+      "keywords": ["Marathons", "Half Marathons", "10K Races"]
+    },
+    {
+      "name": "History and Culture",
+      "keywords": ["World History", "Cultural Studies", "Mythologies"]
+    },
+    {
+      "name": "Travel",
+      "keywords": ["Germany", "Northern Europe", "Eastern Europe", "Japan"]
+    },
+    {
+      "name": "Technology and Languages",
+      "keywords": [
+        "Emerging Technologies",
+        "Language Learning",
+        "Ukrainian",
+        "Finnish"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Playing Bass Guitar"]
+    },
+    {
+      "name": "Fitness",
+      "keywords": ["Gym Training"]
+    },
+    {
+      "name": "Personal Development",
+      "keywords": ["Coaching", "Motivation", "Ownership", "Books", "Podcasts"]
+    }
+  ]
+}

@@ -17,22 +17,35 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+lang: en-US
+title: Luis Alvarez | DevOps Engineer @ Digiventus
+email: luis.alvarez@digiventus.com
+description: "DevOps Engineer @ Digiventus"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+url: "http://l7devops.com"
+author:
+  name: Luis Alvarez
+  linkedin: luis-alvarez-devops
+  xing: LuisAlfredo_GodoyAlvarez
+  picture: /assets/images/LAlvarez.jpeg
+github_username: luifa7
+linkedin_username: luis-alvarez-devops
+xing_username: LuisAlfredo_GodoyAlvarez
+logo: "/assets/images/logo1.jpeg"
 
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-basically-basic
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about/"
+  - title: "Curriculum Vitæ"
+    url: "/cv/"
 plugins:
-  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
