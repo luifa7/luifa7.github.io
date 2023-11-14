@@ -32,3 +32,12 @@ As a seasoned DevOps Engineer with a strong focus on Azure, .NET, and Angular, I
 ### Background and Culture
 
 - Originally from Argentina, I have been residing in Germany since 2013. My passion for travel has taken me to various parts of the world, enriching my appreciation for diverse cultures. I am currently learning Ukrainian and Finnish, driven by my love for languages and cultural exploration.
+
+<ul class="intro-actions">
+  <li>
+    <a href="https://www.loom.com/share/131878515607423c9f60c84a0a5cd017" class="btn" target="_blank">Teaching Spanish</a>
+  </li>
+  <li>
+    <a href="https://youtu.be/cVMgR6tGLmE?si=9jmLuTpWsddL1-ei" class="btn" target="_blank">Speaking Ukrainian</a>
+  </li>
+</ul>
