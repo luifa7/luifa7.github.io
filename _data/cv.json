@@ -339,5 +339,60 @@
       "name": "Personal Development",
       "keywords": ["Coaching", "Motivation", "Ownership", "Books", "Podcasts"]
     }
+  ],
+  "references": [
+    {
+      "title": "Generali München Marathon",
+      "date": "2017",
+      "awarder": "42 KM",
+      "summary": "München, Germany",
+      "website": "https://muenchen.r.mikatiming.de/2017/?content=detail&fpid=search&pid=search&idp=9999991020522300001829AE&lang=DE&event=MM&search%5Bname%5D=godoy&search%5Bnation%5D=%25&search_sort=name&search_event=MM"
+    },
+    {
+      "title": "Bamberg Weltkulturerbelauf",
+      "date": "2023",
+      "awarder": "21 KM",
+      "summary": "Bamberg, Germany",
+      "website": "https://www.davengo.com/event/result/bamberger-weltkulturerbelauf-2023/detail/tu5TkJ4jXnWEpWcFeXegj5WXx9n0PuY7ntLC6anZY6E"
+    },
+    {
+      "title": "Wizz Air Kyiv City Marathon 2021",
+      "date": "2021",
+      "awarder": "21 KM",
+      "summary": "Kyiv, Ukraine",
+      "website": "https://kyivmarathon.org/en/results/?event=113&id=814"
+    },
+    {
+      "title": "SportScheck RUN Nürnberg",
+      "date": "2019",
+      "awarder": "21 KM",
+      "summary": "Nürnberg, Germany",
+      "website": "https://sportscheck.r.mikatiming.de/2019/run_nue/?content=detail&fpid=search&pid=search&idp=99999912789143000024FCCB&lang=DE&event=HM&search%5Bname%5D=godoy&search_event=HM"
+    },
+    {
+      "title": "Danske Bank Oslo Maraton 2014: 10 for Grete",
+      "date": "2014",
+      "awarder": "10 KM",
+      "summary": "Oslo, Norway",
+      "website": "https://www.racetimer.se/sv/runner/show/4000094?layout=racetimer&race_id=2185"
+    },
+    {
+      "title": "Teaching Spanish",
+      "awarder": "Free Time Classes",
+      "summary": "Explaining Ser and Estar",
+      "website": "https://www.loom.com/share/131878515607423c9f60c84a0a5cd017"
+    },
+    {
+      "title": "Speaking Ukrainian",
+      "awarder": "Speak Ukrainian School",
+      "summary": "Speaking Ukrainian in a dialogue",
+      "website": "https://youtu.be/cVMgR6tGLmE?si=9jmLuTpWsddL1-ei"
+    },
+    {
+      "title": "Speaking Ukrainian",
+      "awarder": "Speak Ukrainian School",
+      "summary": "Recitation in Ukrainian of a classic work by Lesya Ukrainka",
+      "website": "https://youtu.be/anu3zEA91is?si=l_iEUvVhUjbNOd3j"
+    }
   ]
 }

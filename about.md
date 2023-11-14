@@ -25,7 +25,7 @@ As a seasoned DevOps Engineer with a strong focus on Azure, .NET, and Angular, I
     - Bamberg Half Marathon, 2023
     - Kyiv Half Marathon, 2021
     - Nürnberg Half Marathon, 2019
-    - Oslo Half Marathon, 2014
+    - Oslo 10 KM, 2014
 - **Taekwondo Black Belt, WTF:**
   - Achieved Black Belt status in Taekwondo (World Taekwondo Federation) in 2009, Buenos Aires.
 
