@@ -38,6 +38,9 @@ As a seasoned DevOps Engineer with a strong focus on Azure, .NET, and Angular, I
     <a href="https://www.loom.com/share/131878515607423c9f60c84a0a5cd017" class="btn" target="_blank">Teaching Spanish</a>
   </li>
   <li>
+    <a href="https://youtube.com/shorts/V2LtEhSG9Tg" class="btn" target="_blank">Speaking Finnish</a>
+  </li>
+  <li>
     <a href="https://youtu.be/cVMgR6tGLmE?si=9jmLuTpWsddL1-ei" class="btn" target="_blank">Speaking Ukrainian</a>
   </li>
 </ul>
