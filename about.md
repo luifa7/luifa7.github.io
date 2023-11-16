@@ -33,14 +33,14 @@ As a seasoned DevOps Engineer with a strong focus on Azure, .NET, and Angular, I
 
 - Originally from Argentina, I have been residing in Germany since 2013. My passion for travel has taken me to various parts of the world, enriching my appreciation for diverse cultures. I am currently learning Ukrainian and Finnish, driven by my love for languages and cultural exploration.
 
-<ul class="intro-actions">
-  <li>
-    <a href="https://www.loom.com/share/131878515607423c9f60c84a0a5cd017" class="btn" target="_blank">Teaching Spanish</a>
+<ul class="intro-actions" style="list-style: none; padding: 0; margin: 0;">
+  <li style="margin-bottom: 10px;">
+    <a href="https://www.loom.com/share/131878515607423c9f60c84a0a5cd017" class="btn" target="_blank" style="display: block; text-align: center; margin: 0 auto;">Teaching Spanish</a>
   </li>
-  <li>
-    <a href="https://youtube.com/shorts/V2LtEhSG9Tg" class="btn" target="_blank">Speaking Finnish</a>
+  <li style="margin-bottom: 10px;">
+    <a href="https://youtube.com/shorts/V2LtEhSG9Tg" class="btn" target="_blank" style="display: block; text-align: center; margin: 0 auto;">Speaking Finnish</a>
   </li>
-  <li>
-    <a href="https://youtu.be/cVMgR6tGLmE?si=9jmLuTpWsddL1-ei" class="btn" target="_blank">Speaking Ukrainian</a>
+  <li style="margin-bottom: 10px;">
+    <a href="https://youtu.be/cVMgR6tGLmE?si=9jmLuTpWsddL1-ei" class="btn" target="_blank" style="display: block; text-align: center; margin: 0 auto;">Speaking Ukrainian</a>
   </li>
 </ul>
