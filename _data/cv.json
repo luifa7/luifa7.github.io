@@ -95,6 +95,8 @@
         "NUnit",
         "CI/CD",
         "Azure DevOps",
+        "Kubernetes",
+        "Docker",
         "Scrum",
         "Agile"
       ]
@@ -124,7 +126,9 @@
         "Scrum",
         "Jira",
         "Agile",
-        "Docker"
+        "Docker",
+        "Kubernetes",
+        "GitOps"
       ]
     },
     {
